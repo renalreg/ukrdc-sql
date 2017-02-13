@@ -1,0 +1,25 @@
+CREATE VIEW UKRDC_VIEW_ALLERGY AS
+SELECT
+   NULL AS LocalPatientId,
+   NULL AS AllergyCode,
+   NULL AS AllergyCodeStd,
+   NULL AS AllergyCodeDesc,
+   NULL AS AllergyCategoryCode,
+   NULL AS AllergyCategoryCodeStd,
+   NULL AS AllergyCategoryDesc,
+   NULL AS SeverityCode,
+   NULL AS SeverityCodeStd,
+   NULL AS SeverityDesc,
+   NULL AS ClinicianCode,
+   NULL AS ClinicianCodeStd,
+   NULL AS ClinicianDesc,
+   NULL AS DiscoveryTime,
+   NULL AS ConfirmedTime,
+   NULL AS CommentText,
+   NULL AS InactiveTime,
+   NULL AS FreeTextAllergy,
+   NULL AS QualifyingDetails,
+   NULL AS UpdatedOn,  
+   NULL AS ActionCode,
+   NULL AS ExternalId
+   

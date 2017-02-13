@@ -1,4 +1,4 @@
-CREATE VIEW UKRDC_VIEW_ENCOUNTER AS
+CREATE VIEW UKRDC_VIEW_TREATMENT AS
 SELECT
     NULL AS LocalPatientId,
     NULL AS EncounterType,
@@ -22,6 +22,15 @@ SELECT
     NULL AS EnteredAtDesc,    
     NULL AS UpdatedOn,
     NULL AS ActionCode,
-    NULL AS ExternalId
+    NULL AS ExternalId,
+    NULL AS HDP01,
+    NULL AS HDP02,
+    NULL AS HDP03,
+    NULL AS HDP04,
+    NULL AS QBL05,
+    NULL AS QBL06,
+    NULL AS QBL07,
+    NULL AS ERF61,
+    NULL AS PAT35
 
     

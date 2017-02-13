@@ -16,5 +16,6 @@ SELECT
    NULL AS PersonToContact_ContactNumber,
    NULL AS PersonToContact_ContactNumberType,
    NULL AS PersonToContact_Relationship,
+   NULL AS UpdatedOn,
    NULL AS ActionCode,
-   NULL AS UpdatedOn
+   NULL AS ExternalId

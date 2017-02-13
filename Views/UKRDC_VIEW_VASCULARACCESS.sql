@@ -1,5 +1,4 @@
-CREATE VIEW UKRDC_VIEW_DIALYSISSESSION AS
-SELECT
+CREATE VIEW UKRDC_VIEW_VASCULARACCESS
     NULL AS LocalPatientId,
     NULL AS ProcedureTypeCode,
     NULL AS ProcedureTypeCodeStd,
@@ -14,14 +13,13 @@ SELECT
     NULL AS EnteredAtCode,
     NULL AS EnteredAtCodeStd,
     NULL AS EnteredAtDesc,
-    NULL AS QHD19,
-    NULL AS QHD20,
-    NULL AS QHD21,
-    NULL AS QHD22,
-    NULL AS QHD30,
-    NULL AS QHD31,
-    NULL AS QHD32,
-    NULL AS QHD33,
     NULL AS UpdatedOn,
     NULL AS ActionCode,
-    NULL AS ExternalId
+    NULL AS ExternalId,
+    NULL AS ACC19,
+    NULL AS ACC20,
+    NULL AS ACC21,
+    NULL AS ACC22,
+    NULL AS ACC30,
+    NULL AS ACC40
+    
