@@ -1,6 +1,7 @@
 CREATE VIEW UKRDC_VIEW_TREATMENT AS
 SELECT
     NULL AS LocalPatientId,
+    NULL AS EncounterNumber,
     NULL AS EncounterType,
     NULL AS FromTime,
     NULL AS ToTime,

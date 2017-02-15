@@ -3,7 +3,7 @@ SELECT
    NULL AS LocalPatientId,
    NULL AS AllergyCode,
    NULL AS AllergyCodeStd,
-   NULL AS AllergyCodeDesc,
+   NULL AS AllergyDesc,
    NULL AS AllergyCategoryCode,
    NULL AS AllergyCategoryCodeStd,
    NULL AS AllergyCategoryDesc,
