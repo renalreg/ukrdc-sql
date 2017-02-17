@@ -3,6 +3,7 @@ SELECT
   NULL AS LocalPatientId,
   NULL AS ContactValue,
   NULL AS ContactUse,
+  NULL AS CommentText,
   NULL AS UpdatedOn,
   NULL AS ActionCode,
   NULL AS ExternalId
